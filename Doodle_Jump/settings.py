@@ -22,3 +22,4 @@ class Settings():
         self.pedal_gap = 45
         # 踏板的跳起高度
         self.pedal_jump_height = 60
+        # 测试
